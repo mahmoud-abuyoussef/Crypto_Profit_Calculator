@@ -1,4 +1,3 @@
-# CryptoProfitCalculator
+# Crypto Profit Calculator
 
-## Demo Live
-https://mahmoudabuyousef.github.io/CryptoProfitCalculator/
+## [Demo Link](https://mahmoud-abuyoussef.github.io/Crypto_Profit_Calculator/)
