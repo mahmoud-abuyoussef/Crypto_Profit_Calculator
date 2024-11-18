@@ -1,0 +1,82 @@
+/* ============================ Global Value ============================ */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eff1f4;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+}
+
+/* =========================== Dark & Light Mood =============================== */
+.dark-mood {
+  background-color: #333;
+  color: #fff;
+}
+/* =========================== Navbar =============================== */
+.nav .navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+
+.nav .navbar h1 {
+  font-size: 15px;
+}
+
+.nav button {
+  padding: 8px;
+  width: 50px;
+  border: none;
+  background-color: #ddd;
+  color: #000;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+/* ======================= Main ====================== */
+.main .main-container {
+  box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 15px;
+  margin: 30px 0;
+}
+
+.main .main-container label {
+  margin: 10px 0;
+  display: block;
+}
+
+.main .main-container input {
+  display: block;
+  padding: 10px;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  width: 100%;
+}
+
+.btn-calc {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  display: block;
+  margin: 10px auto;
+  cursor: pointer;
+}
+
+.show-result-calc {
+  padding: 15px;
+  border-radius: 15px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  width: 100%;
+}
